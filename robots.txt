@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /PREVIEW-open-me.html
+
+Sitemap: https://utopiabedding.com/sitemap.xml

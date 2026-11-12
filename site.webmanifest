@@ -1,0 +1,12 @@
+{
+  "name": "Utopia Bedding",
+  "short_name": "Utopia",
+  "description": "Soft sheets, pillows, comforters and blankets from Utopia Bedding.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#04548a",
+  "icons": [
+    { "src": "assets/img/logomark.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
